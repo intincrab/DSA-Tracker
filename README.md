@@ -1,6 +1,6 @@
 # DSA-Tracker
 
-## DSA
+## DSA-Bootcamp-Java
 - [ ] Complete Git & GitHub Course
 - [ ] Introduction to Programming
   - - [ ] Types of languages
