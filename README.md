@@ -105,14 +105,14 @@
     - - [ ] Singleton Class
     - - [ ] final, finalize, finally
     - - [ ] Exception Handling
-- [x] Linked List
-    - - [x] Introduction
-    - - [x] Singly and Doubly Linked List
-    - - [x] Circular Linked List
-    - - [x] Fast and slow pointer
-    - - [x] Cycle Detection
-    - - [x] Reversing of LinekdList
-    - - [x] Linked List Interview questions
+- [ ] Linked List
+    - - [ ] Introduction
+    - - [ ] Singly and Doubly Linked List
+    - - [ ] Circular Linked List
+    - - [ ] Fast and slow pointer
+    - - [ ] Cycle Detection
+    - - [ ] Reversing of LinekdList
+    - - [ ] Linked List Interview questions
 - [ ] Stacks & Queues
     - - [ ] Introduction
     - - [ ] Interview problems
@@ -129,7 +129,7 @@
     - - [ ] DP on Grids
     - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
     - - [ ] Introduction
